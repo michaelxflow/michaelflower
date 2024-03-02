@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael, an <a href="https://www.linkedin.com/in/michael-flower-/">IT Professional</
+<h1>Hi, I'm Michael, an <a href="https://www.linkedin.com/in/michael-flower-/">IT Professional</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
@@ -16,9 +16,8 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[facebook]: https://www.facebook.com/teckhelp1
+[linkedin]: https://www.linkedin.com/in/michael-flower-
 <!---
 michaelxflow/michaelxflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
