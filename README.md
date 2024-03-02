@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @michaelxflow
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...projects
+- 👋 Hi, I’m @michaelflower
+- 👀 I’m interested in ...Technical Support and Networking
+- 🌱 I’m currently learning ...python, IT support, Networking
+- 💞️ I’m looking to collaborate on ...projects and jobs
 - 📫 How to reach me ...michaelflower33@gmail.com
 
 <!---
