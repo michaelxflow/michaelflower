@@ -8,7 +8,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/michaelxflow//configure-ad)
   - [Group Policy and Managing Accounts with Active Directory](https://github.com/michaelxflow/AD-Group-Policies-and-Managing)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michaelxflow//azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michaelxflow/NSGs-and-Network-Protocols/tree/main)
 
 <h2>Connect with me:</h2>
 
