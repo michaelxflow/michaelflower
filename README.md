@@ -9,6 +9,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/michaelxflow//configure-ad)
   - [Group Policy and Managing Accounts with Active Directory](https://github.com/michaelxflow/AD-Group-Policies-and-Managing)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michaelxflow/NSGs-and-Network-Protocols/tree/main)
+  - [Observing DNS Cache](https://github.com/michaelxflow/DNS-Cache-Observe/blob/main/README.md)
 
 <h2>Connect with me:</h2>
 
